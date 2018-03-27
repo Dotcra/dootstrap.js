@@ -1,1 +1,1 @@
-# do bootstrap stuff with pure javascript, no jquery, no popover, no shit.
+# Do Bootstrap stuff with pure JavaScript, no jQuery, no Popover.js, no shit.
